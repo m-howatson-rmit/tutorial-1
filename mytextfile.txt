@@ -1,0 +1,1 @@
+Right click, and create a text file named mytextfile.txt. Write something inside the text file. Save and close the file.
